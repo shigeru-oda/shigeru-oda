@@ -17,13 +17,13 @@ https://jawspankration2021.jaws-ug.jp/
 
 
 ### SNS／BLOG関係
-- Facebook
-https://www.facebook.com/shigeru.oda.9/
-
 - Twitter
 https://twitter.com/OutputSeq
 
-- speakerdeck
+- Facebook
+https://www.facebook.com/shigeru.oda.9/
+
+- Speakerdeck
 https://speakerdeck.com/shigeruoda
 
 - github
