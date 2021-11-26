@@ -15,7 +15,8 @@ https://jawsdays2021.jaws-ug.jp
 - JAWS JAWS PANKRATION 2021運営(2021/06-2022/01?)
 https://jawspankration2021.jaws-ug.jp/
 
-###　SNS／BLOG関係
+
+### SNS／BLOG関係
 - Facebook
 https://www.facebook.com/shigeru.oda.9/
 
