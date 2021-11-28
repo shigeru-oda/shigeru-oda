@@ -1,7 +1,7 @@
 ### 自己紹介
 - AWSインフラ構築や共通基盤構築する人
 - セキュリティの勉強したい人
-
+- AWS Community Builders
 
 ### SNS／BLOG関係
 - [Twitter](https://twitter.com/OutputSeq)
