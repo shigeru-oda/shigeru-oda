@@ -1,7 +1,8 @@
 ### 自己紹介
+- [AWS Samurai 2021](https://drive.google.com/file/d/1P7Wfya2s4npuWsKLRv9dDNfIYKYA6TGs/view?usp=sharing)
+- AWS Community Builders
 - AWSインフラ構築や共通基盤構築する人
 - セキュリティの勉強したい人
-- AWS Community Builders
 
 ### SNS／BLOG関係
 - [Twitter](https://twitter.com/OutputSeq)
