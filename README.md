@@ -1,6 +1,7 @@
 ### 自己紹介
-- [AWS Samurai 2021](https://drive.google.com/file/d/1P7Wfya2s4npuWsKLRv9dDNfIYKYA6TGs/view?usp=sharing)
-- AWS Community Builders
+- [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/shigeru-oda)
+- [AWS Samurai 2021](https://drive.google.com/file/d/1P7Wfya2s4npuWsKLRv9dDNfIYKYA6TGs/view)
+- [AWS Community Builders](https://aws.amazon.com/jp/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Shigeru%2BOda&cb-cards.q_operator=AND)
 - AWSインフラ構築や共通基盤構築する人
 - セキュリティの勉強したい人
 
