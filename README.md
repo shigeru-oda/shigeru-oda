@@ -19,6 +19,7 @@
 - [JAWS DAYS 2021運営(2020/10-2021/04)](https://jawsdays2021.jaws-ug.jp)
 - [JAWS-UG事務局 広報(2021/04-)](https://jaws-ug.jp/)
 - [JAWS PANKRATION 2021運営(2021/06-2022/01)](https://jawspankration2021.jaws-ug.jp/)
+- [JAWS DAYS 2022アドバイザー・ハンズオン資料作成(2022/05-2022/11)](https://jawsdays2022.jaws-ug.jp)
 
 <!--
 **shigeru-oda/shigeru-oda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
