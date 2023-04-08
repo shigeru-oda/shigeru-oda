@@ -20,6 +20,9 @@
 - [JAWS PANKRATION 2021運営(2021/06-2022/01)](https://jawspankration2021.jaws-ug.jp/)
 - [JAWS DAYS 2022アドバイザー・ハンズオン資料作成(2022/05-2022/11)](https://jawsdays2022.jaws-ug.jp)
 
+### 記事
+- [AWS SAM、FastAPI、Mangum を使って API 開発をやってみる](https://aws.amazon.com/jp/builders-flash/202304/api-development-sam-fastapi-mangum/)
+
 <!--
 **shigeru-oda/shigeru-oda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
