@@ -1,7 +1,7 @@
 ### 自己紹介
 - [AWS Community Hero](https://aws.amazon.com/developer/community/heroes/shigeru-oda)
 - [AWS Samurai 2021](https://drive.google.com/file/d/1P7Wfya2s4npuWsKLRv9dDNfIYKYA6TGs/view)
-- AWSインフラ構築や共通基盤構築する人
+- Create AWS infrastructure with fun and ease!
 
 ### SNS／BLOG関係
 - [Twitter](https://twitter.com/OutputSeq)
