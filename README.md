@@ -10,6 +10,7 @@
 - [github](https://github.com/shigeru-oda/)
 - [note](https://note.com/shigeru_oda)
 - [zenn](https://zenn.dev/shigeru_oda/)
+- [linkedin](https://www.linkedin.com/in/shigeru-oda-4a5020b2/)
 
 
 ### コミュニティ運営
