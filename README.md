@@ -4,7 +4,7 @@
 - Create AWS infrastructure with fun and ease!
 
 ### SNS／BLOG関係
-- [Twitter](https://twitter.com/OutputSeq)
+- [x.com](https://x.com/OutputSeq)
 - [Facebook](https://www.facebook.com/shigeru.oda.9/)
 - [Speakerdeck](https://speakerdeck.com/shigeruoda)
 - [github](https://github.com/shigeru-oda/)
@@ -23,6 +23,7 @@
 
 ### 記事
 - [AWS SAM、FastAPI、Mangum を使って API 開発をやってみる](https://aws.amazon.com/jp/builders-flash/202304/api-development-sam-fastapi-mangum/)
+- [AWS CloudFormation IaC ジェネレーターで AWS リソースの棚卸を試してみた](https://aws.amazon.com/jp/builders-flash/202404/iac-generator-resource-inventory/)
 
 <!--
 **shigeru-oda/shigeru-oda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
